@@ -1,11 +1,30 @@
 .hard-knocks {
-  margin-top: 35px;
+  margin-top: 14px;
   margin-bottom: 40px;
   padding-left: 15px;
 }
 
-h2 {
+/* h2 {
   color: white;
-  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  text-shadow: 1px 1px 2px black, 0 0 25px rgb(12, 52, 92), 0 0 5px rgb(4, 20, 36);
+} */
+
+
+.column-h3 {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
 }
 
+.ada-logo {
+  margin-top: unset;
+}
+
+
+
+
+/* .middle h3 {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+} */
